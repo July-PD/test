@@ -1,0 +1,202 @@
+{
+  "action": {
+    "danger": {
+      "bg": {
+        "$type": "color",
+        "$value": "{lost.4}"
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "{neutral.0}"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{neutral.0}"
+      }
+    },
+    "primary": {
+      "bg": {
+        "$type": "color",
+        "$value": "#2da47c"
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "#f1f2f3"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "#f1f2f3"
+      }
+    },
+    "secondary": {
+      "bg": {
+        "$type": "color",
+        "$value": "#a3e6cf"
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "#195c45"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "#195c45"
+      }
+    },
+    "tertiary": {
+      "bg": {
+        "$type": "color",
+        "$value": "#ffffff"
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "#2da47c"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "#2da47c"
+      }
+    }
+  },
+  "bg": {
+    "primary": {
+      "$type": "color",
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "#f1f2f3"
+    }
+  },
+  "border": {
+    "primary": {
+      "$type": "color",
+      "$value": "{calm.2}"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{calm.1}"
+    }
+  },
+  "feedback": {
+    "error": {
+      "bg": {
+        "$type": "color",
+        "$value": "{lost.1}"
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{lost.2}"
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "{lost.5}"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{lost.5}"
+      }
+    },
+    "info": {
+      "border": {
+        "$type": "color",
+        "$value": "{strike.2}"
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "{strike.5}"
+      },
+      "info": {
+        "$type": "color",
+        "$value": "{strike.1}"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{strike.5}"
+      }
+    },
+    "success": {
+      "bg": {
+        "$type": "color",
+        "$value": "{gain.1}"
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{gain.2}"
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "{gain.5}"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{gain.5}"
+      }
+    },
+    "warning": {
+      "bg": {
+        "$type": "color",
+        "$value": "{sell.1}"
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{sell.2}"
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "{sell.5}"
+      },
+      "text": {
+        "$type": "color",
+        "$value": "{sell.5}"
+      }
+    }
+  },
+  "icon": {
+    "disabled": {
+      "$type": "color",
+      "$value": "{calm.1}"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{calm.4}"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{calm.2}"
+    }
+  },
+  "overlay": {
+    "hover 2": {
+      "$type": "color",
+      "$value": "#00000014"
+    },
+    "pressed 2": {
+      "$type": "color",
+      "$value": "#00000029"
+    }
+  },
+  "surface": {
+    "primary": {
+      "$type": "color",
+      "$value": "#bfc3ca"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "#f1f2f3"
+    }
+  },
+  "text": {
+    "disabled": {
+      "$type": "color",
+      "$value": "#bfc3ca"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "#0c0c0e"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "#5f6572"
+    }
+  }
+}

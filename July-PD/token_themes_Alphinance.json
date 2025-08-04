@@ -62,6 +62,10 @@
       "$type": "color",
       "$value": "#ffffff"
     },
+    "prueba prueba": {
+      "$type": "color",
+      "$value": "{yield.6}"
+    },
     "secondary": {
       "$type": "color",
       "$value": "#f1f2f3"

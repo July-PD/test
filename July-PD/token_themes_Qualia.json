@@ -62,6 +62,10 @@
       "$type": "color",
       "$value": "#ffffff"
     },
+    "prueba prueba": {
+      "$type": "color",
+      "$value": "{qualia.2}"
+    },
     "secondary": {
       "$type": "color",
       "$value": "#f1f2f3"

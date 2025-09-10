@@ -3,208 +3,252 @@
     "danger": {
       "bg": {
         "$type": "color",
-        "$value": "{lost.4}"
+        "$value": "{lost.4}",
+        "$description": "Color de fondo para botones o elementos de acciones destructivas."
       },
       "icon": {
         "$type": "color",
-        "$value": "{neutral.0}"
+        "$value": "{neutral.0}",
+        "$description": "Color de íconos sobre fondo destructivo para mantener legibilidad."
       },
       "text": {
         "$type": "color",
-        "$value": "{neutral.0}"
+        "$value": "{neutral.0}",
+        "$description": "Color del texto dentro de elementos destructivos o críticos."
       }
     },
     "primary": {
       "bg": {
         "$type": "color",
-        "$value": "{acco.4}"
+        "$value": "{acco.4}",
+        "$description": "Color de fondo para la acción principal del flujo."
       },
       "icon": {
         "$type": "color",
-        "$value": "{calm.1}"
+        "$value": "{calm.1}",
+        "$description": "Color de íconos en botones primarios."
       },
       "text": {
         "$type": "color",
-        "$value": "{calm.1}"
+        "$value": "{calm.1}",
+        "$description": "Color del texto en botones de acción primaria."
       }
     },
     "secondary": {
       "bg": {
         "$type": "color",
-        "$value": "{acco.2}"
+        "$value": "{acco.2}",
+        "$description": "Fondo para acciones secundarias o alternativas."
       },
       "icon": {
         "$type": "color",
-        "$value": "{acco.5}"
+        "$value": "{acco.5}",
+        "$description": "Texto sobre botones secundarios."
       },
       "text": {
         "$type": "color",
-        "$value": "{acco.5}"
+        "$value": "{acco.5}",
+        "$description": "Color de íconos para botones secundarios."
       }
     },
     "tertiary": {
       "bg": {
         "$type": "color",
-        "$value": "{neutral.0}"
+        "$value": "{neutral.0}",
+        "$description": "Fondo para botones terciarios, usualmente neutros."
       },
       "icon": {
         "$type": "color",
-        "$value": "{acco.4}"
+        "$value": "{acco.4}",
+        "$description": "Íconos en botones terciarios."
       },
       "text": {
         "$type": "color",
-        "$value": "{acco.4}"
+        "$value": "{acco.4}",
+        "$description": "Texto en botones terciarios."
       }
     }
   },
   "bg": {
     "primary": {
       "$type": "color",
-      "$value": "{neutral.0}"
+      "$value": "{neutral.0}",
+      "$description": "Color de fondo base de la aplicación o interfaz."
     },
     "secondary": {
       "$type": "color",
-      "$value": "{calm.1}"
+      "$value": "{calm.1}",
+      "$description": "Color de fondo para secciones o elementos secundarios."
     }
   },
   "border": {
     "primary": {
       "$type": "color",
-      "$value": "{calm.2}"
+      "$value": "{calm.2}",
+      "$description": "Borde estándar para contenedores y tarjetas."
     },
     "secondary": {
       "$type": "color",
-      "$value": "{calm.1}"
+      "$value": "{calm.1}",
+      "$description": "Borde más tenue para elementos de bajo énfasis."
     }
   },
   "fb": {
     "error": {
       "bg": {
         "$type": "color",
-        "$value": "{lost.2}"
+        "$value": "{lost.2}",
+        "$description": "Fondo de mensajes de error."
       },
       "border": {
         "$type": "color",
-        "$value": "{lost.2}"
+        "$value": "{lost.2}",
+        "$description": "Color del borde en alertas de error."
       },
       "icon": {
         "$type": "color",
-        "$value": "{lost.5}"
+        "$value": "{lost.5}",
+        "$description": "Ícono de advertencia para errores."
       },
       "text": {
         "$type": "color",
-        "$value": "{lost.5}"
+        "$value": "{lost.5}",
+        "$description": "Texto para mensajes de error."
       }
     },
     "info": {
+      "bg": {
+        "$type": "color",
+        "$value": "{strike.2}",
+        "$description": "Color auxiliar en fondo info."
+      },
       "border": {
         "$type": "color",
-        "$value": "{strike.2}"
+        "$value": "{strike.2}",
+        "$description": "Color del borde para mensajes informativos."
       },
       "icon": {
         "$type": "color",
-        "$value": "{strike.5}"
-      },
-      "info": {
-        "$type": "color",
-        "$value": "{strike.2}"
+        "$value": "{strike.5}",
+        "$description": "Color de íconos en alertas informativas."
       },
       "text": {
         "$type": "color",
-        "$value": "{strike.5}"
+        "$value": "{strike.5}",
+        "$description": "Texto para mensajes informativos."
       }
     },
     "success": {
       "bg": {
         "$type": "color",
-        "$value": "{gain.2}"
+        "$value": "{gain.2}",
+        "$description": "Fondo para mensajes de confirmación o éxito."
       },
       "border": {
         "$type": "color",
-        "$value": "{gain.2}"
+        "$value": "{gain.2}",
+        "$description": "Borde para alertas de éxito."
       },
       "icon": {
         "$type": "color",
-        "$value": "{gain.5}"
+        "$value": "{gain.5}",
+        "$description": "Ícono en mensajes de éxito."
       },
       "text": {
         "$type": "color",
-        "$value": "{gain.5}"
+        "$value": "{gain.5}",
+        "$description": "Texto para feedback exitoso."
       }
     },
     "warning": {
       "bg": {
         "$type": "color",
-        "$value": "{sell.2}"
+        "$value": "{sell.2}",
+        "$description": "Fondo de advertencias y mensajes preventivos."
       },
       "border": {
         "$type": "color",
-        "$value": "{sell.2}"
+        "$value": "{sell.2}",
+        "$description": "Borde de mensajes de advertencia."
       },
       "icon": {
         "$type": "color",
-        "$value": "{sell.5}"
+        "$value": "{sell.5}",
+        "$description": "Ícono de advertencia o riesgo."
       },
       "text": {
         "$type": "color",
-        "$value": "{sell.5}"
+        "$value": "{sell.5}",
+        "$description": "Texto en mensajes de advertencia."
       }
     }
   },
   "icon": {
     "disabled": {
       "$type": "color",
-      "$value": "{calm.1}"
+      "$value": "{calm.1}",
+      "$description": "Color de íconos inactivos o deshabilitados."
     },
     "primary": {
       "$type": "color",
-      "$value": "{calm.4}"
+      "$value": "{calm.4}",
+      "$description": "Color para íconos principales, activos."
     },
     "secondary": {
       "$type": "color",
-      "$value": "{calm.2}"
+      "$value": "{calm.2}",
+      "$description": "Color para íconos secundarios."
     }
   },
   "overlay": {
     "hover": {
       "$type": "color",
-      "$value": "{neutral.1,5}"
+      "$value": "{neutral.1,5}",
+      "$description": "Superposición visible al pasar el cursor."
     },
     "pressed": {
       "$type": "color",
-      "$value": "{neutral.1,8}"
+      "$value": "{neutral.1,8}",
+      "$description": "Superposición al mantener pulsado o presionar."
     }
   },
   "surface": {
     "primary": {
       "$type": "color",
-      "$value": "{calm.2}"
+      "$value": "{calm.2}",
+      "$description": "Superficie de componentes principales."
     },
     "secondary": {
       "$type": "color",
-      "$value": "{calm.1}"
+      "$value": "{calm.1}",
+      "$description": "Superficie secundaria o de fondo interno."
     }
   },
   "text": {
     "body": {
       "$type": "color",
-      "$value": "{calm.4}"
+      "$value": "{calm.4}",
+      "$description": "Texto estándar de párrafos y cuerpo."
     },
     "detail": {
       "$type": "color",
-      "$value": "{calm.2}"
+      "$value": "{calm.2}",
+      "$description": "Texto auxiliar, detalles o notas menores."
     },
     "display": {
       "$type": "color",
-      "$value": "{calm.6}"
+      "$value": "{calm.6}",
+      "$description": "Texto de gran tamaño, por ejemplo para métricas."
     },
     "subtitle": {
       "$type": "color",
-      "$value": "{calm.4}"
+      "$value": "{calm.4}",
+      "$description": "Texto de subtítulos o encabezados menores."
     },
     "title": {
       "$type": "color",
-      "$value": "{calm.6}"
+      "$value": "{calm.6}",
+      "$description": "Texto de títulos o encabezados principales."
     }
   }
 }
